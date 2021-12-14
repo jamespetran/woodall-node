@@ -10,8 +10,8 @@ let people = [
 
 console.log(foods);
 
-console.log(counter);
-console.log(counter);
-console.log(counter);
-console.log(counter);
-console.log(counter);
+console.log('counter',counter);
+console.log('counter',counter);
+console.log('counter',counter);
+console.log('counter',counter);
+console.log('counter',counter);
