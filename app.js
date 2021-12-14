@@ -1,4 +1,6 @@
 console.log("hello from app.js 🤌");
+let foods = require('./food');
+let counter=require('./count')
 
 let people = [
       'edan',
@@ -6,11 +8,10 @@ let people = [
       'ken'
 ];
 
-console.log(people);
+console.log(foods);
 
-for ( let person of people ) {
-      console.log(`hello`, person);
-      if (person==='edan') {
-            console.log('lookin good');
-      }
-}
+console.log(counter);
+console.log(counter);
+console.log(counter);
+console.log(counter);
+console.log(counter);
